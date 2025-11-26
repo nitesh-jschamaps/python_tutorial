@@ -17,10 +17,10 @@ print(list1)
 #Check if item exists
 list1=["apple","banana","cherry"]
 if "apple" in list1:
-  print("Yes")'''
+  print("Yes")
 
 
 #Remove item
 list1=["apple","banana","cherry"]
 list1.remove("banana")
-print(list1)
+print(list1)'''
