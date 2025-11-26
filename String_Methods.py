@@ -1,9 +1,9 @@
 
-#strip()
+'''#strip()
 #Example the strip() method removes any whitespace from the beginning or the end.
 a="    Nitesh Gupta    "
 print(a.strip())
-'''
+
 
 #lstrip()
 #The lstrip() method removes any leading characters by left space as the leading character.
