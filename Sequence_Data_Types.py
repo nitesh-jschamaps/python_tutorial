@@ -109,9 +109,10 @@ print(min(list1))
 list1=[10,5,20,15,30,35,70,50,40]
 list2=list1.sort()
 print(list1)
-
-
 '''
+
+
+
 
 
 
